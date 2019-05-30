@@ -1,0 +1,12 @@
+.pure-form legend{
+    border-bottom: none;
+    color: white;
+}
+
+.pure-form input[type] {
+    border: 2px solid #ddd;
+    box-shadow: none;
+    font-size: 90%;
+    width: 10%;
+
+}
